@@ -12,5 +12,5 @@
                                                    
 Hello!!
 
-- I’m currently working on my web portfolio
+- I’m programming student
 - [My Website](https://davidpolastik.cz)
